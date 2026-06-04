@@ -107,6 +107,7 @@ https://github.com/AIUNIQ/ai-voice-agent-platform
 
 Designed to automate customer conversations, workflow execution, CRM synchronization, and operational monitoring through AI-powered voice interactions.
 
+Designed and documented a production-oriented AI voice agent architecture integrating conversational AI, workflow automation, CRM synchronization, webhooks, compliance logging, and operational monitoring. Technologies and concepts include OpenAI-compatible APIs, FastAPI, Twilio, Docker, Linux infrastructure, and event-driven automation.
 ---
 
 ### RAG Knowledge Assistant
@@ -126,6 +127,7 @@ https://github.com/AIUNIQ/rag-knowledge-assistant
 
 Designed to improve knowledge access and response accuracy through retrieval-augmented generation and semantic search architectures.
 
+Designed a Retrieval-Augmented Generation (RAG) knowledge architecture supporting semantic search, embeddings, vector databases, prompt guardrails, document ingestion pipelines, chunking strategies, and grounded response generation. Technologies and concepts include Pinecone, ChromaDB, knowledge engineering, and AI retrieval workflows.
 ---
 
 ### AI Automation Workflows
@@ -143,6 +145,8 @@ Business automation architecture integrating:
 
 **Repository:**
 https://github.com/AIUNIQ/ai-automation-workflows
+
+Designed automation architectures connecting APIs, webhooks, CRM platforms, communication systems, and operational workflows. Includes workflow orchestration, event-driven processing, Zapier automation, CRM synchronization, consent-driven workflows, operational monitoring, and business process automation.
 
 ---
 
