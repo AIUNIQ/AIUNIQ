@@ -103,6 +103,8 @@ Production-grade AI Voice Agent architecture integrating:
 **Repository:**
 https://github.com/AIUNIQ/ai-voice-agent-platform
 
+Designed to automate customer conversations, workflow execution, CRM synchronization, and operational monitoring through AI-powered voice interactions.
+
 ---
 
 ### RAG Knowledge Assistant
@@ -119,6 +121,8 @@ Retrieval-Augmented Generation architecture supporting:
 
 **Repository:**
 https://github.com/AIUNIQ/rag-knowledge-assistant
+
+Designed to improve knowledge access and response accuracy through retrieval-augmented generation and semantic search architectures.
 
 ---
 
@@ -153,6 +157,10 @@ https://github.com/AIUNIQ/ai-automation-workflows
 * Business Process Automation
 * AI-Powered Customer Operations
 
+## Selected Technologies
+
+Python • FastAPI • OpenAI • Docker • AWS • Zapier • Twilio • REST APIs • Webhooks • Pinecone • ChromaDB • Slack • CRM Integrations
+
 ---
 
 ## Current Focus
@@ -160,3 +168,14 @@ https://github.com/AIUNIQ/ai-automation-workflows
 Currently building practical AI systems that combine reasoning, automation, knowledge retrieval, workflow orchestration, and real-world business execution.
 
 My goal is to design scalable AI systems that move beyond chat interfaces and become operational tools that support businesses, teams, and customers at scale.
+
+## Areas of Interest
+
+- AI Agents
+- Agentic Systems
+- Workflow Automation
+- Voice AI
+- Knowledge Engineering
+- System Architecture
+- Business Intelligence
+- Operational Automation
