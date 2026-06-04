@@ -159,7 +159,7 @@ https://github.com/AIUNIQ/ai-automation-workflows
 
 ## Selected Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI]([https](https://img.shields.io/badge/FastAPI-00800?style=for-the-badge&logo=FastAPI&logoColor=Green)
+![FastAPI](https://img.shields.io/badge/FastAPI-00800?style=for-the-badge&logo=FastAPI&logoColor=Green)
 
 Python • FastAPI • OpenAI • Docker • AWS • Zapier • Twilio • REST APIs • Webhooks • Pinecone • ChromaDB • Slack • CRM Integrations
 
