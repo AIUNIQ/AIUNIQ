@@ -100,6 +100,7 @@ Production-grade AI Voice Agent architecture integrating:
 * Workflow Automation
 * Compliance Logging
 * Operational Monitoring
+* Consent-Driven Transaction Workflows
 
 **Repository:**
 https://github.com/AIUNIQ/ai-voice-agent-platform
@@ -114,8 +115,8 @@ Retrieval-Augmented Generation architecture supporting:
 
 * Semantic Search
 * Embeddings
-* Pinecone Concepts
-* ChromaDB Concepts
+* Pinecone 
+* ChromaDB 
 * Knowledge Retrieval
 * Prompt Guardrails
 * Grounded AI Responses
