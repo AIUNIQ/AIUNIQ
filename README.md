@@ -1,6 +1,7 @@
 # Donna Gorosin
 
 ## AI Systems Engineer | Automation Architect | Strategic Operations Leader
+Bridging strategy, operations, data accountability, and AI engineering to build intelligent systems that solve real business problems.
 
 ### Building AI Systems That Execute Real Business Work
 
