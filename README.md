@@ -1,6 +1,7 @@
 # Donna Gorosin
 
-AI Systems Engineer | Automation Architect | Strategic Operations Leader
+AI Systems Engineer | Automation Architect | AI Agents | RAG | FastAPI | Voice AI
+https://www.linkedin.com/in/dgraciella/
 
 ---
 
