@@ -162,9 +162,16 @@ https://github.com/AIUNIQ/ai-automation-workflows
 ![FastAPI](https://img.shields.io/badge/FastAPI-00800?style=for-the-badge&logo=FastAPI&logoColor=Green)
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=OpenAI&logoColor=Black)
 ![Docker](https://img.shields.io/badge/Docker-ADD8E6?style=for-the-badge&logo=Docker&logoColor=LightBlue)
-Python • FastAPI • OpenAI • Docker • AWS • Zapier • Twilio • REST APIs • Webhooks • Pinecone • ChromaDB • Slack • CRM Integrations
+![AWS](https://img.shields.io/badge/AWS-FFA500?style=for-the-badge&logo=AWS&logoColor=Orange)
+![Zapier](https://img.shields.io/badge/Zapier-EE7600?style=for-the-badge&logo=Zapier&logoColoer=DarkOrange)
+![Twilio](https://img.shields.io/badge/Twilio-FF474C?style=for-the-badge&logo=Twilio&logoColor=LightRed)
+![RestAPIs](https://img.shields.io/badge/RestAPIs-800080?style=for-the-badge&logo=RestAPIs&logoColor=Purple)
+![Webhooks](https://img.shields.io/badge/Webhooks-FFFF00?style=for-the-badge&logo=Webhooks&logoColor=Yellow)
+![Pinecone](https://img.shields.io/badge/Pinecone-636B2F?style=for-the-badge&logo=Pinecone&logoColor=OliveGreen)
+![ChromaD8](https://img.shields.io/badge/ChromaDB-0096FF?style=for-the-badge&logo=ChromaDB&logoColor=BrightBlue)
+![Slack](https://img.shields.io/badge/Slack-66FF00?style=for-the-badge&logo=Slack&logoColor=BrightGreen)
+![CRM Integrations](https://img.shields.io/badge/CRMIntegrations-008080?style=for-the-badge&logo=CRMIntegrations&logoColor=Teal)
 
----
 
 ## Current Focus
 
