@@ -158,6 +158,7 @@ https://github.com/AIUNIQ/ai-automation-workflows
 * AI-Powered Customer Operations
 
 ## Selected Technologies
+![Python](https://img.shields.io/badge/Python)
 
 Python • FastAPI • OpenAI • Docker • AWS • Zapier • Twilio • REST APIs • Webhooks • Pinecone • ChromaDB • Slack • CRM Integrations
 
